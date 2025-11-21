@@ -1,5 +1,6 @@
 import asyncio
 import time
+
 #korutine
 #async def main():
     #print("hello")
@@ -33,3 +34,4 @@ def main():
 
 rezultati = main()
 print(f"Rezultati: {rezultati}")
+
